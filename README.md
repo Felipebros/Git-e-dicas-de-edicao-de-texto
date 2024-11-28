@@ -1,1 +1,32 @@
 # Git-e-dicas-de-edicao-de-texto
+
+- git overflow
+- conventional commit https://www.conventionalcommits.org/pt-br/v1.0.0/ https://glasp.co/Felipebros/p/cdd4dbfd5e17f63c24f4
+- versionamento semântico https://semver.org/lang/pt-BR/
+- git merge —abort
+- git stash
+- git add -i
+- git reset
+- git push -f
+- git revert
+- git log
+- git log  -p
+- git diff
+- git diff --staged
+- git stash list
+- git stash list -p
+- git stash help
+- git stash push -p app/api/serializers/manifestacao_serializer.py
+- git stash push -m "mensagem"
+- git log --oneline --graph
+- git log --pretty=format:"- %s" --reverse
+- git merge - E tipos de merge https://www.perplexity.ai/search/tipos-de-merge-do-git-DeJ3lXZfQXOioRk.e0yQNg
+- git merge --squash https://archives.docs.gitlab.com/15.11/ee/user/project/merge_requests/squash_and_merge.html
+- git rebase main
+- git cherry-pick
+- Maneira mais fácil de resolver conflitos
+- ruff - indentação padronizada e menos conflitos em merges
+- Melhorando a Qualidade e a Consistência do Código com Ruff e Black
+- Diferença de origin (servidor) e head (do seu pc)
+- Comparar branchs pelo vscode e pelo gitlab
+- Identificador único reduzido e tamanho normal, hash
