@@ -14,9 +14,12 @@ gitGraph
     merge hotfixes
     commit
     commit
+    checkout main
     commit
     commit
+    checkout develop
     merge main
+    commit
     commit
     checkout main
     merge develop
